@@ -10,7 +10,7 @@ Foram implementados os seguintes pontos
  - **Encriptação de Senha:** A senha do usuário é encriptada para garantir maior segurança.
  - **Verificação de Existência de Usuário:** A API verifica se o usuário já existe antes de realizar a criação ou autenticação.
  - E**xecução em Docker:** A aplicação está configurada para ser executada em contêineres Docker.
- - **Migrations:** As migrations precisam ser aplicadas antes de rodar a aplicação para garantir que o banco de dados esteja corretamente configurado.
+ - **Migrations:** As migrations precisam ser aplicadas antes de rodar a aplicação para garantir que o banco de dados (localmente) esteja corretamente configurado.
 
 # Tarefas futuras
 
